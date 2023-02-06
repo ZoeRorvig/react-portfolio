@@ -24,3 +24,4 @@ git commit -m 'deploy'
 git push -f git@github.com:ZoeRorvig/react-portfolio.git main:gh-pages
 
 cd -
+
